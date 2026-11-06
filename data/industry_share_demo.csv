@@ -1,0 +1,18 @@
+# Nexa AgroFeeds (fictional) - synthetic competitor set; industry base 620000 MT/month; share = mt_per_month / industry.
+rank,company,mt_per_month,share_pct,growth_vs_2025_pct,facebook_followers,youtube_subs,instagram_followers,linkedin_followers,tiktok_followers,meta_ads,google_yt_ads,order_app
+16,"Nutrimax",65273,10.53,4.2,14000,2320,,3100,2012,No,No,""
+15,"Zenith Feed",37523,6.05,0.5,,,,,,,,""
+14,"New Dawn Feeds",32686,5.27,23.7,,,,,,,,""
+13,"Sunrise",32474,5.24,2.8,8300,,,15000,54,No,No,""
+12,"Apex Feeds",31677,5.11,0,,,,,,,,""
+11,"Delta Feed",29125,4.70,17.1,99000,350,6,15000,,No,No,"Delta Cattle User"
+10,"Pinnacle",27478,4.43,4.2,,,,,,,,""
+9,"Regal Feeds",27053,4.36,4.4,,,,,,,,""
+8,"Riverine Feeds",26149,4.22,-8.1,,,,,,,,""
+7,"Shanti Feeds",22875,3.69,-0.8,,,,,,,,""
+6,"Tarna Feed",20357,3.28,3,,,,,,,,""
+5,"Vitalis Feed",20000,3.23,94.8,,,,,,,,""
+4,"Karim",19977,3.22,-33,94000,2820,,105000,,Off,No,""
+3,"Ashroy",17027,2.75,7.6,,,,,,,,""
+2,"Nexa",15150,2.44,96.4,36000,1400,113,8300,4496,No,No,"Nexa Dealer Khata"
+1,"Anwar",11550,1.86,-10.4,,,,,,,,""

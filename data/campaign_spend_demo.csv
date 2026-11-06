@@ -1,0 +1,47 @@
+# Nexa AgroFeeds (fictional) - synthetic demo dataset. All amounts BDT, rescaled by a single factor.
+# section 1: Q1 campaign spend detail (24 campaigns)
+campaign,category,period,spend_bdt,romi_topline_x,romi_profit_x
+"Billboard",Outdoor,July,659228,112,17.1
+"Campaign / Online Newspaper / Digital Sponsor",Digital,July,128788,112,17.1
+"Caravan Activation (Cattle Feed)",BTL,July,1901142,112,17.1
+"Doctor Bag",Gift & Printing,July,199200,112,17.1
+"Model Farm Branding",Outdoor,July,1528661,112,17.1
+"Model Farm Equipment",BTL,July,267924,112,17.1
+"Product Book",Gift & Printing,July,47725,112,17.1
+"Docu-Drama",ATL,August,174300,280.8,44.1
+"Folding Umbrella",Gift & Printing,August,1755450,280.8,44.1
+"Gift Box / Card",Gift & Printing,August,18260,280.8,44.1
+"Neon Sign / Iconic Spot Branding",Outdoor,August,348600,280.8,44.1
+"Non-folding Umbrella",Gift & Printing,August,49800,280.8,44.1
+"SMS & Others",Digital,August,95450,280.8,44.1
+"Digital Agency / Retainership",Digital,July-September,522900,206.8,32.2
+"Farmers / Retailer Seminar",BTL,July-September,1105560,206.8,32.2
+"Long Term Dealer Benefit",Trade Incentive,July-September,1529989,206.8,32.2
+"Profile Light Box",Outdoor,August-September,1925600,371.2,58.6
+"Press & Magazine / Sponsor",ATL,September,221610,340,53.6
+"Campaign / Online Newspaper / Digital Sponsor",Digital,September,49800,340,53.6
+"Coffee Mug",Gift & Printing,September,83000,340,53.6
+"Leaflet",Gift & Printing,September,207500,340,53.6
+"Product Book",Gift & Printing,September,1424429,340,53.6
+"Round Neck T-Shirt",Gift & Printing,September,24900,340,53.6
+"Special Gift",Gift & Printing,September,174300,340,53.6
+
+# section 2: Q1 budget vs actual by channel (utilisation = actual / plan)
+channel,q1_plan_bdt,q1_actual_bdt,utilisation_pct
+ATL,4100200,224100,5
+Digital,2643550,727910,28
+BTL,1054100,4535362,430
+Outdoor,5086408,3881570,76
+Gift & Printing,1943445,5076695,261
+Dealer benefit,323700,323700,100
+Total,15151403,14769337,97
+
+# section 3: Q2 proposed budget by channel
+channel,q2_plan_bdt,q2_proposed_bdt,change_bdt
+ATL,6673200,6673200,0
+Digital,4689500,5519500,830000
+BTL,4349200,4349200,0
+Outdoor,5032954,5032954,0
+Gift & Printing,1582395,996000,-586395
+Dealer benefit,323700,323700,0
+Total,22650949,22894554,243605

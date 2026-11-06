@@ -1,0 +1,10 @@
+{
+  "name": "nexa-agrofeeds-marketing-analysis-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static, single-file marketing analysis deck for a fictional feed brand (Nexa AgroFeeds) with synthetic demo datasets. No build step.",
+  "scripts": {
+    "dev": "npx --yes serve -l 5173 .",
+    "start": "npx --yes serve ."
+  }
+}

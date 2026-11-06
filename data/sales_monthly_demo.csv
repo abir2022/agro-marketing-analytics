@@ -1,0 +1,19 @@
+# Nexa AgroFeeds (fictional) - synthetic demo dataset. Revenue in BDT crore (Cr); volume = revenue / realised price.
+month,volume_mt,revenue_bdt_cr,sales_target_bdt_cr,marketing_revenue_target_bdt_cr,marketing_led_revenue_bdt_cr,achievement_x
+July,13093,77.14,80.67,24.20,13.26,0.55
+August,15692,92.45,85.57,25.67,57.07,2.22
+September,16663,98.17,90.47,27.14,52.98,1.95
+Q1 total,45449,267.77,256.73,77.02,123.31,1.60
+Q2 plan,42330,249.4,249.4,62.10,,
+Q2 stretch,44820,,,,,
+FY 2026-27 aspiration,174300,,,,,
+
+# section 2: Q2 operating KPI scorecard (synthetic)
+kpi,q1_actual,q2_target
+Tech seminar KPI attainment,84%,100%
+Competitors scored,0 of 14,14 of 14
+Share of spend with measured ROMI,0%,80%
+Marketing spend % of revenue,0.55%,0.8-0.9%
+Brand maturity audit score (39 checks),35 of 39,39 of 39
+Brand activation pack workstreams,6 of 6,6 of 6
+Channel utilisation target,n/a,80-120% of plan
