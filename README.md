@@ -1,3 +1,5 @@
+![Agro Marketing Analytics](assets/banner.svg)
+
 # Nexa AgroFeeds — Strategic Marketing Analysis · portfolio demo
 
 [![Deployed on Vercel](https://img.shields.io/badge/Vercel-Live%20demo-0F172A?style=flat&logo=vercel&logoColor=white)](https://vercel.com "Live demo placeholder") [![Static app](https://img.shields.io/badge/build-none%20required-10B981?style=flat)](#run-locally) [![Data](https://img.shields.io/badge/data-synthetic-F59E0B?style=flat)](#demo-data-disclaimer)
